@@ -1,4 +1,6 @@
-
+/*This part is the realization of distance
+ * 2018-3-9 : by Lingsheng Kong
+ */
 #ifndef __NEURON_CONNECTOR_PLUGIN_H__
 #define __NEURON_CONNECTOR_PLUGIN_H__
 

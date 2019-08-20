@@ -1,3 +1,6 @@
+/*This part is the realization of distance
+ * 2018-3-9 : by Lingsheng Kong
+ */
 #include "v3d_message.h"
 #include <vector>
 #include <map>
